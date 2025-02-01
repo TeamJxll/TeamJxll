@@ -7,7 +7,7 @@
 
 💻 Hola soy Juan y soy **El Fundador Y Lider De 𝑻𝒆𝒂𝒎 𝑱𝑿𝑳𝑳**
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31v4livubpvxafiy6srwfznsad5e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31v4livubpvxafiy6srwfznsad5e&redirect=true)
 
 <br>
 <h3 align="left">Languages en los que te podria dar una ayuda:</h3>
