@@ -35,9 +35,7 @@ Soy **Juan**, Fundador y Líder de **𝑻𝒆𝒂𝒎 𝑱𝑿𝑳𝑳**, apasio
 ---
 
 📊 Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical" alt="GitHub Streak"/>
+<p align="center"> src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical" alt="GitHub Streak"/>
 </p>
 🎵 Escucha nuestra música
 <p align="center">
