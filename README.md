@@ -1,44 +1,60 @@
-<h1 align="center">👋 Bienvenid@ a <strong>𝑻𝒆𝒂𝒎 𝑱𝑿𝑳𝑳</strong></h1>
+# TEAM JXLL 🔴⚡
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Coding" width="400"/>
-</p>
+![Glitch Banner](https://www.icegif.com/wp-content/uploads/2023/06/icegif-102.gif)
 
----
-
-💻 Sobre mí
-Soy **Juan**, Fundador y Líder de **𝑻𝒆𝒂𝒎 𝑱𝑿𝑳𝑳**, apasionado por el desarrollo web, la estética hacker y la creación de comunidades digitales.
+Bienvenido al repositorio oficial de **TEAM JXLL**.  
+Un espacio de colaboración, creatividad y desarrollo independiente.  
 
 ---
 
-🌐 Conecta conmigo
-<p align="center">
-  <a href="https://t.me/KeyBreaker" target="_blank"><img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
-  <a href="https://jxll.foroactivo.com/" target="_blank"><img src="https://img.shields.io/badge/Foro-TEAM%20JXLL-red?style=for-the-badge&logo=firefox" alt="Foro"/></a>
-</p>
+## 🚀 Filosofía
+- Comunidad, independencia y rebeldía digital  
+- Diseño visual impactante con estética glitch  
+- Integración multimedia y experiencias inmersivas  
 
 ---
 
-🚀 Lenguajes y Tecnologías
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/>
-</p>
+## ⚡ Tecnologías
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 
 ---
 
-📊 Estadísticas
-<p align="center"> src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical" alt="GitHub Streak"/>
-</p>
-🎵 Escucha nuestra música
-<p align="center">
-  <a href="https://open.spotify.com/playlist/6yAdoM7UoDuKDRPjw81EL3?si=qM_8SMhESXOufcZmjcRS0g&pi=cjmUiRsoRMyq5" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-TEAM%20JXLL-green?style=for-the-badge&logo=spotify" alt="Spotify"/>
-</p>
+## 🤝 Aliados
+
+Aquí presentamos a nuestros aliados estratégicos.  
+Cada botón lleva a su perfil o proyecto, acompañado de un breve resumen:
+
+| Aliado | Resumen | Link |
+|--------|---------|------|
+| **IRON ATLAS** | Especialista en ciberseguridad y hacking ético. | [![Visitar](https://img.shields.io/badge/Perfil-CyberWolf-red?style=for-the-badge)](https://t.me/ironatlas_organization) |
+| **Hackpurtagory** | Comunidad enfocada a la lipieza de la internet. | [![Visitar](https://img.shields.io/badge/Portfolio-DarkPixel-black?style=for-the-badge)](https://HackPurgatory.es) |
+| **Mercado negro** | Tienda virtual autorizada. | [![Visitar](https://img.shields.io/badge/Repo-CodePhantom-blue?style=for-the-badge)](https://t.me/+-U1VirN7Vic4YTlh) |
+
+---
+
+## 🎶 Experiencia
+Este portfolio incluye:
+- Animaciones interactivas  
+- Botones personalizables  
+- Música de fondo integrada  
+- Efectos visuales glitch  
+
+![Glitch Effect](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+
+---
+
+## 🌐 Página Oficial
+[![Visitar Página Oficial](https://img.shields.io/badge/Página%20Oficial-TEAM%20JXLL-red?style=for-the-badge&logo=firefox)](https://teamjxll.com)
+
+---
+
+## 📬 Contacto
+- Telegram: [@TEAMJXLL](https://t.me/TEAMJXLL)  
+- GitHub: [TEAMJXLL](https://github.com/TEAMJXLL)  
+
+---
+
+> _“El código es arte, la comunidad es fuerza.”_
