@@ -1,9 +1,4 @@
-# TEAM JXLL 🔴⚡
-
 ![Glitch Banner](https://www.icegif.com/wp-content/uploads/2023/06/icegif-102.gif)
-
-Bienvenido al repositorio oficial de **TEAM JXLL**.  
-Un espacio de colaboración, creatividad y desarrollo independiente.  
 
 ---
 
@@ -58,3 +53,8 @@ Este portfolio incluye:
 ---
 
 > _“El código es arte, la comunidad es fuerza.”_
+>
+> <div align="center">
+  <img src="https://t4.ftcdn.net/jpg/04/91/05/33/360_F_491053367_KMLo7KAiLgNd3QamkQ865Q0T5unl9aAi.jpg" alt="TEAM JXLL">
+</div>
+
